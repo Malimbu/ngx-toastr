@@ -49,7 +49,7 @@ __step 1:__ add css
 ```json
 "styles": [
   "styles.scss",
-  "node_modules/ngx-toastr/toastr.css"
+  "../node_modules/ngx-toastr/toastr.css"
 ]
 ```
 
